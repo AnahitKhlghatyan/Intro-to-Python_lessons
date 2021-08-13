@@ -1,2 +1,2 @@
 # Python_lessons
-For homeworks
+For homeworks and editings
